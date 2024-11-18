@@ -5,3 +5,6 @@
 또한, 동북아역사재단의 개편 프로젝트, 학술정보 해외 도서 쇼핑몰 구축, 중앙응급의료센터 홈페이지 구축에도 참여한 경력이 있습니다.
 
 이러한 경험을 바탕으로 풀스택 개발 과정까지 수료하며, 풀스택 개발자가 되기 위해 꾸준히 노력하고 있습니다.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moontari_96&show_icons=true&theme=dracula)
