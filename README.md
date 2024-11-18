@@ -26,17 +26,15 @@ DDP, 서울디자인재단 등 공공기관 프로젝트를 진행하며 웹 접
 ## 🧩 Projects
 - **[Unibunny](https://github.com/Moontari-96/Unibunny)**: Phaser를 활용한 **웹 게임 & 커뮤니티 사이트 개발 프로젝트**
 - **[WIT](https://github.com/Moontari-96/WIT)**: 효율적인 팀 협업을 위한 **통합 그룹웨어 솔루션 개발**
-  - [Frontend Repository](https://github.com/Moontari-96/WIT_Front_End)
-- **[Hows](https://github.com/seunghye00/Hows)**: 가구 판매 및 인테리어 커뮤니티 통합 플랫폼
+- **[Hows](https://github.com/seunghye00/Hows)**: **가구 판매 및 인테리어 커뮤니티 통합 플랫폼**
 
 ---
 
 ## 📝 Blog
-- 📖 **Velog**: [https://velog.io/@moontari](https://velog.io/@moontari)
+- 📖 **Velog**:[https://velog.io/@moontari_96/posts](https://velog.io/@moontari_96/posts)
 
 ---
 
 ## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moontari-96&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Moontari-96&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moontari-96&layout=compact&theme=dracula)
