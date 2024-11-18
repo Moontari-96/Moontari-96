@@ -7,4 +7,4 @@
 이러한 경험을 바탕으로 풀스택 개발 과정까지 수료하며, 풀스택 개발자가 되기 위해 꾸준히 노력하고 있습니다.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moontari_96&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moontari-96&show_icons=true&theme=dracula)
