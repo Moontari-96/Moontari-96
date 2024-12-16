@@ -54,6 +54,5 @@
 ---
 
 ## 🌟 Coding Activity
-<p align="center">
-  <img src="https://wakatime.com/badge/user/your-unique-id.svg" alt="Coding Activity" />
-</p>
+
+<script src="https://gist.github.com/Moontari-96/9f0a8f1a12540d63546ecafe6a55567f.js"></script>
