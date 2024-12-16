@@ -51,8 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moontari-96&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
----
-
-## 🌟 Coding Activity
-
-<script src="https://gist.github.com/Moontari-96/9f0a8f1a12540d63546ecafe6a55567f.js"></script>
