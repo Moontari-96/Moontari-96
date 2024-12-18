@@ -20,3 +20,5 @@
             SHOW_OS: true
             SHOW_LANGUAGES: true
             SHOW_WEEKLY_COMMIT: false
+            SHOW_TIMEZONE: false
+            SHOW_LOC_CHART: false
