@@ -52,7 +52,6 @@
 </p>
 
 
-  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
@@ -133,5 +132,5 @@ Java                     3 repos             ████░░░░░░░�
 
 
  Last Updated on 18/12/2024 07:49:08 UTC
-<!--END_SECTION:waka-->
+
 
