@@ -51,3 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moontari-96&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
