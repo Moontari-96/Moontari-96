@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&width=435&lines=Hello+there!+I'm+Moontari;Fullstack+Developer;Welcome+to+my+GitHub!" />
 </p>
 
-# 👋 Hi, I'm 문경원
-
 💻 **Fullstack Developer**  
 도화지에 부족한 부분을 다양한 기술로 채워나가는 풀스택 개발자 문경원입니다.
 Frontend와 Backend를 아우르는 개발 경험을 바탕으로 CI/CD 기반의 안정적인 서비스 운영 환경을 구축하고,
